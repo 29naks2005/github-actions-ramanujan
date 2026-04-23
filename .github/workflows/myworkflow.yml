@@ -6,4 +6,4 @@ jobs:
     runs-on: macOS-latest
     steps:
       - name: Print Hello
-        run: echo "Hello World "
+        run: echo "Hello World"
